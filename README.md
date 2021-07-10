@@ -6,7 +6,7 @@ O projeto consiste em treinar uma rede neural(MobileNet) usando nossos próprios
 
 Com o dataset pronto usei o exemplo de classificação da biblioteca [aXeleRate](https://github.com/AIWintermuteAI/aXeleRate) que basicamente combina algumas arquiteturas de redes neurais, treina elas com base nos dados fornecidos e, mais importante, converte para o modelo que o acelerador de redes neurais(KPU) da placa usa, podendo assim usar esse tipo de modelo na nossa placa, o processo de conversão é algo do tipo: h5 -> TFlite -> kmodel. Os parâmetros de configuração do treinamento e uso estão explicados no github do projeto. O treinamento foi feito usando no [Google Colab](https://colab.research.google.com/drive/1KqqEgZtWPoJd-EgjODVSzZZhNa5dr2-6?usp=sharing).
 
-Com o modelo criado usamos a ferramenta [kFlash](http://www.iotneuron.com/2019/09/27/upgrading-the-firmware-on-sipeed-maix-bit/) para gravar o modelo no endereço de memória apropriado. Com isso podemos usar o script em python para testar se o modelo funciona, e após testado podemos [gravar](https://cn.maixpy.sipeed.com/maixpy/en/get_started/get_started_upload_script.html) o script na memória da nossa placa e rodar ela usando um powerbank.
+Com o modelo criado usamos a ferramenta [kFlash](http://www.iotneuron.com/2019/09/27/upgrading-the-firmware-on-sipeed-maix-bit/) para gravar o modelo no endereço de memória apropriado. Com isso podemos usar o script em python para testar se o modelo funciona, e após testado podemos [gravar](https://cn.maixpy.sipeed.com/maixpy/en/get_started/get_started_upload_script.html) o script(inference.py) na memória da nossa placa e rodar ela usando um powerbank.
 
 ![image](https://user-images.githubusercontent.com/74123993/125169891-ab3f9100-e182-11eb-9ada-3396606ae559.png)
 
