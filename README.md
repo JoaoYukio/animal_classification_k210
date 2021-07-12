@@ -12,10 +12,45 @@ Com o modelo criado usamos a ferramenta [kFlash](http://www.iotneuron.com/2019/0
 
 O modelo foi testado com dois gatos na "vida real" e os outros animais foram testados usando imagens da internet(infelizmente não tenho nenhum elefante por aqui):
 
+# Testes
+
+## Gatos na "vida real"
+
 ![image](https://user-images.githubusercontent.com/74123993/125169682-b2b26a80-e181-11eb-83b8-9e0580d45c27.png)
 
 ![image](https://user-images.githubusercontent.com/74123993/125169741-eab9ad80-e181-11eb-9884-47fa584e0c94.png)
 
 ![image](https://user-images.githubusercontent.com/74123993/125169718-d8d80a80-e181-11eb-8f23-a7cc2d92640c.png)
+
+## Fotos de gatos na internet
+
+![image](https://user-images.githubusercontent.com/74123993/125311101-8a557800-e309-11eb-865d-c76432117d28.png)
+![image](https://user-images.githubusercontent.com/74123993/125311121-8e819580-e309-11eb-924f-f03160d44da9.png)
+![image](https://user-images.githubusercontent.com/74123993/125311080-86295a80-e309-11eb-8345-0ea9593b05dc.png)
+
+## Fotos de borboletas na internet
+
+![image](https://user-images.githubusercontent.com/74123993/125311269-aa853700-e309-11eb-9568-4d6e8707642b.png)
+![image](https://user-images.githubusercontent.com/74123993/125311377-bec93400-e309-11eb-8571-d2428c2bf457.png)
+![image](https://user-images.githubusercontent.com/74123993/125311336-b83abc80-e309-11eb-85d7-7b83d26d115e.png)
+
+
+## Fotos de cachorros na internet
+![image](https://user-images.githubusercontent.com/74123993/125311238-a2c59280-e309-11eb-8a74-2a429dd02be0.png)
+![image](https://user-images.githubusercontent.com/74123993/125311250-a5c08300-e309-11eb-951b-dfdba246272e.png)
+![image](https://user-images.githubusercontent.com/74123993/125311225-9fcaa200-e309-11eb-84fb-3de09002c8e1.png)
+
+
+## Fotos de cavalos na internet
+
+![image](https://user-images.githubusercontent.com/74123993/125311477-d1436d80-e309-11eb-9535-a91cf21f11b3.png)
+![image](https://user-images.githubusercontent.com/74123993/125312183-6fcfce80-e30a-11eb-9f05-616051f89b75.png)
+![image](https://user-images.githubusercontent.com/74123993/125312164-6cd4de00-e30a-11eb-90d4-5e5b85286903.png)
+
+## Fotos de elefantes na internet
+
+![image](https://user-images.githubusercontent.com/74123993/125311422-c688d880-e309-11eb-9680-7fb738624ef0.png)
+![image](https://user-images.githubusercontent.com/74123993/125311453-cc7eb980-e309-11eb-992f-4ab176704de3.png)
+![image](https://user-images.githubusercontent.com/74123993/125311436-c983c900-e309-11eb-9086-c6971b2d5ccc.png)
 
 
